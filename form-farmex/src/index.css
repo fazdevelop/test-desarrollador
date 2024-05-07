@@ -1,0 +1,23 @@
+body {
+  background-color: #DCF2F1;
+}
+
+#formulario {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.form {
+  background-color: #7FC7D9;
+}
+.title {
+  background-color: #365486;
+}
+
+.btn-submit {
+  background-color: #DCF2F1;
+}
+
+.title h1 {
+  color: white;
+}
